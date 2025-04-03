@@ -1,0 +1,17 @@
+[
+    { "matricula": "a00432345", "nombre": "Ana Lopez", "calificacion": 90.2, "adeudos": false },
+    { "matricula": "a00432346", "nombre": "Luis García", "calificacion": 82.5, "adeudos": true },
+    { "matricula": "a00432347", "nombre": "María Pérez", "calificacion": 95.0, "adeudos": false },
+    { "matricula": "a00432348", "nombre": "Carlos Soto", "calificacion": 76.8, "adeudos": false },
+    { "matricula": "a00432349", "nombre": "Sofía Jiménez", "calificacion": 88.4, "adeudos": true },
+    { "matricula": "a00432350", "nombre": "Pedro Hernández", "calificacion": 67.2, "adeudos": false },
+    { "matricula": "a00432351", "nombre": "Lucía Fernández", "calificacion": 91.3, "adeudos": false },
+    { "matricula": "a00432352", "nombre": "Andrés Ramírez", "calificacion": 73.6, "adeudos": true },
+    { "matricula": "a00432353", "nombre": "Valeria Torres", "calificacion": 84.1, "adeudos": false },
+    { "matricula": "a00432354", "nombre": "Miguel Ruiz", "calificacion": 78.9, "adeudos": false },
+    { "matricula": "a00432355", "nombre": "Daniela Vargas", "calificacion": 92.7, "adeudos": false },
+    { "matricula": "a00432356", "nombre": "Jorge Castro", "calificacion": 69.5, "adeudos": true },
+    { "matricula": "a00432357", "nombre": "Renata Salas", "calificacion": 87.0, "adeudos": false },
+    { "matricula": "a00432358", "nombre": "Emilio Rivas", "calificacion": 74.3, "adeudos": true },
+    { "matricula": "a00432359", "nombre": "Paula Medina", "calificacion": 93.8, "adeudos": false }
+]  
