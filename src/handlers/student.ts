@@ -16,4 +16,12 @@ export default class StudentsHttpHandler{
         }
     }
 
+    async getStudentsMessage(request: Request, response: Response, next: NextFunction){
+        try{
+            const students = await controller.getStudentsMessage();
+            response.json(students);
+        } catch (error){
+            next(error);
+        }
+    }
 }
