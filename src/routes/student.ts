@@ -5,7 +5,7 @@ const router = express.Router();
 
 const studenttHttpHandler = new StudenttHttpHandler;
 
-router.get('/status', studenttHttpHandler.getStudents);
+router.get('/status', studenttHttpHandler.getStudentsMessage);
 
 
 export default router;
